@@ -1,4 +1,4 @@
-**This Terraform configuration allows you to deploy a WordPress website on AWS using RDS for the database and VPC networking for secure communication. It also includes a Bash script for deploying the WordPress application.
+**This Terraform configuration allows you to deploy a WordPress website on AWS using RDS for the database and VPC networking for secure communication. It also includes a Bash script for deploying the WordPress application.**
 
 ## Prerequisites
 
@@ -10,7 +10,7 @@ AWS credentials configured on your machine with appropriate permissions to creat
 ## Usage
 
 **Clone this repository to your local machine:-
-git clone https://github.com/vijaysexena/Terraform-wordpress.git 
+git clone https://github.com/vijaysexena/Terraform-wordpress.git** 
 
 
 ## Update the variables.tf file with your desired configurations and AWS credentials:
@@ -34,7 +34,7 @@ After the resources are created, you will see the outputs containing the URLs fo
 
 **Use the provided user-data.sh Bash script to deploy WordPress:
 ./user-data.sh
-The script will prompt you for the WordPress database details (database host, name, username, and password). Enter the appropriate values based on the outputs from Terraform.
+The script will prompt you for the WordPress database details (database host, name, username, and password). Enter the appropriate values based on the outputs from Terraform.**
 
 Once the script completes successfully, you should be able to access your WordPress website using the URL provided in the Terraform outputs.
 
@@ -45,7 +45,7 @@ Once the script completes successfully, you should be able to access your WordPr
 terraform destroy
 
 
-**Note: Be cautious while running this command, as it will destroy all the resources created by this Terraform configuration. **
+**Note: Be cautious while running this command, as it will destroy all the resources created by this Terraform configuration.**
 
 
 ## Contributing
