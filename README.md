@@ -9,7 +9,7 @@ AWS credentials configured on your machine with appropriate permissions to creat
 
 Usage
 
-Clone this repository to your local machine:
+Clone this repository to your local machine:-
 git clone https://github.com/vijaysexena/Terraform-wordpress.git 
 
 
