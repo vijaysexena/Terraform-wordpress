@@ -10,7 +10,7 @@ AWS credentials configured on your machine with appropriate permissions to creat
 Usage
 
 Clone this repository to your local machine:
-git clone https://github.com/your-username/terraform-wordpress.git
+git clone https://github.com/vijaysexena/Terraform-wordpress.git
 
 
 Update the variables.tf file with your desired configurations and AWS credentials:
