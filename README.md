@@ -4,7 +4,7 @@
 
 Before using this Terraform configuration, ensure that you have the following:
 
-Terraform installed on your local machine.
+- [Terraform](https://www.terraform.io/downloads.html) installed on your local machine.
 AWS credentials configured on your machine with appropriate permissions to create resources.
 
 ## Usage
